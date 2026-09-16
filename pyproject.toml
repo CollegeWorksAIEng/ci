@@ -11,4 +11,5 @@ dependencies = [
     "pandas>=1.5",
     "pillow>=9.0",
     "pygments>=2.13",
+    "sortedcontainers>=2.4.0",
 ]
